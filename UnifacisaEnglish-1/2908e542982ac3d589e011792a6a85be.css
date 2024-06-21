@@ -1,0 +1,281 @@
+#section-200-2>.ct-section-inner-wrap {
+  padding-top: 95px;
+  padding-bottom: 95px
+}
+
+#section-200-2 {
+  background-image: url(./WhoWeAre/formas-ingresso-bg.svg);
+  background-size: cover;
+  background-color: #503190
+}
+
+#div_block-202-2 {
+  width: 50%;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0
+}
+
+#div_block-203-2 {
+  width: 50%;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  justify-content: flex-end
+}
+
+.oxy-dynamic-list :is([data-id=div_block-306-2], #incspec) {
+  background-color: #fff;
+  border-radius: 8px;
+  position: relative;
+  flex-direction: column;
+  display: flex;
+  text-align: left
+}
+
+.oxy-dynamic-list :is([data-id=div_block-335-2], #incspec) {
+  width: 100%;
+  position: absolute;
+  background-color: #333;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  overflow: hidden
+}
+
+.oxy-dynamic-list :is([data-id=div_block-337-2], #incspec) {
+  width: 100%;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  background-color: #fff;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin-top: 200px;
+  position: relative
+}
+
+.oxy-dynamic-list :is([data-id=div_block-167-231], #incspec) {
+  text-align: left;
+  flex-direction: row;
+  display: flex;
+  gap: 12px
+}
+
+.oxy-dynamic-list :is([data-id=div_block-643-2], #incspec) {
+  text-align: left;
+  flex-direction: row;
+  display: flex;
+  gap: 12px
+}
+
+#div_block-248-231>:last-child {
+  grid-column: span 4
+}
+
+#div_block-248-231>:nth-child(1) {
+  grid-column: span 8
+}
+
+#div_block-248-231>:nth-child(2) {
+  grid-column: span 4
+}
+
+#div_block-248-231>:nth-child(3) {
+  grid-column: span 4
+}
+
+#div_block-248-231>:nth-child(4) {
+  grid-column: span 4
+}
+
+#div_block-248-231 {
+  justify-items: stretch;
+  align-items: start;
+  grid-template-columns: repeat(12, minmax(200px, 1fr));
+  grid-column-gap: 2rem;
+  grid-row-gap: 2rem;
+  width: 100%;
+  display: grid;
+  display: none
+}
+
+#div_block-266-231 {
+  width: 100%
+}
+
+#div_block-275-231 {
+  width: 100%
+}
+
+#div_block-273-231 {
+  width: 100%
+}
+
+#div_block-271-231 {
+  width: 100%
+}
+
+#div_block-269-231 {
+  width: 100%
+}
+
+@media (max-width:991px) {
+  .oxy-dynamic-list :is([data-id=div_block-167-231], #incspec) {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px
+  }
+}
+
+@media (max-width:991px) {
+  .oxy-dynamic-list :is([data-id=div_block-643-2], #incspec) {
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px
+  }
+}
+
+@media (max-width:991px) {
+  #new_columns-201-2>.ct-div-block {
+    width: 100% !important
+  }
+}
+
+#headline-204-2 {
+  font-size: 4rem;
+  color: #fff;
+  line-height: 1.125
+}
+
+.oxy-dynamic-list :is([data-id=headline-348-2], #incspec) {
+  color: #503190;
+  margin-top: 35px
+}
+
+@media (max-width:991px) {
+  #headline-204-2 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 2.9rem;
+    margin-left: auto;
+    margin-right: auto
+  }
+}
+
+#text_block-206-2 {
+  color: #fff;
+  text-align: right;
+  font-size: 15px
+}
+
+.oxy-dynamic-list :is([data-id=text_block-361-2], #incspec) {
+  color: #503190;
+  font-size: 15px;
+  margin-top: 8px;
+  margin-bottom: 16px
+}
+
+@media (max-width:1280px) {
+  #text_block-206-2 {
+    font-size: 15px
+  }
+}
+
+@media (max-width:991px) {
+  #text_block-206-2 {
+    text-align: center
+  }
+}
+
+.oxy-dynamic-list :is([data-id=link-663-2], #incspec) {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 36px;
+  height: 36px;
+  transition-duration: .3s;
+  justify-content: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, .25)
+}
+
+.oxy-dynamic-list :is([data-id=image-339-2], #incspec) {
+  width: 100%;
+  height: 100%;
+  object-fit: cover
+}
+
+.oxy-dynamic-list :is([data-id=image-166-231], #incspec) {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center center;
+  padding-top: .35rem;
+  padding-right: .35rem;
+  padding-bottom: .35rem;
+  padding-left: .35rem;
+  border-radius: 100px;
+  position: absolute;
+  top: -30px;
+  background-color: #fff
+}
+
+#image-267-231 {
+  width: 100%
+}
+
+#image-276-231 {
+  width: 100%
+}
+
+#image-274-231 {
+  width: 100%
+}
+
+#image-272-231 {
+  width: 100%
+}
+
+#image-270-231 {
+  width: 100%
+}
+
+.oxy-dynamic-list :is([data-id=fancy_icon-665-2], #incspec)>svg {
+  width: 25px;
+  height: 25px
+}
+
+.oxy-dynamic-list :is([data-id=fancy_icon-665-2], #incspec) {
+  border-radius: 0
+}
+
+.oxy-dynamic-list :is([data-id=fancy_icon-665-2], #incspec):focus {
+  color: #fff
+}
+
+#code_block-86-231 {
+  unwrap: true;
+  display: none
+}
+
+#_dynamic_list-305-2 {
+  margin-top: 35px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 2rem;
+  align-items: flex-start;
+  display: flex
+}
+
+#_dynamic_list-305-2 .oxy-repeater-pages {
+  font-size: 12px
+}
